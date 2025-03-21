@@ -1,6 +1,10 @@
 # Pengumpulan Tugas
 gunakan CMD(command prompt) / gunakan Git bash
 
+# Format Commit pengumpulan
+
+Contoh : git commit -m "NIM-Nama Mengumpulkan Tugas1"
+
 Silakan upload tugas ke dalam folder masing-masing dengan langkah berikut menggunakan cmd(command prompt) pada folder tugas kalian:
 1. Buat folder terlebih dahulu dengan penamaan bebas terserah preferensi anda
 2. Clone repo ini:  
